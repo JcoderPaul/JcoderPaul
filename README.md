@@ -1,4 +1,4 @@
-### :hammer_and_wrench: Languages, tools and frameworks:
+### :hammer_and_wrench: Languages, database, tools and frameworks:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="50" height="50"/>&nbsp;
